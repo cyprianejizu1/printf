@@ -40,3 +40,4 @@ int main(void)
     _printf("Len:[%d]\n", len);
     printf("Len:[%d]\n", len2);
     return (0);
+}
