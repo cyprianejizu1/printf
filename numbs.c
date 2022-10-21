@@ -11,7 +11,7 @@
  */
 char *convert(long int num, int base, int flags, params_t *params)
 {
-	static char *array;
+	static char *array
 	static char buffer[50];
 	char sign = 0;
 	char *ptr;
